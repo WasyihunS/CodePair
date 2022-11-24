@@ -1,0 +1,21 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 32px;
+}
+nav{
+    display: flex;
+}
+nav ul li {
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+   
+}
+.form-container{
+    max-width: 980px;
+    margin: 0 auto;
+}
+iframe , form{
+    text-align: center;
+}
