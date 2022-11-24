@@ -17,8 +17,27 @@ nav ul li {
     margin: 0 auto;
 }
  .form-container div{
+    margin-top: 32px;
     text-align: center;
  }
  #header{
     font-family: 'Times New Roman', Times, serif;
  }
+
+form {
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+#submit{
+    border: none;
+
+}
+h1{
+    display: flex;
+    align-self: flex-end;
+}
+iframe{
+    border: none;
+}
